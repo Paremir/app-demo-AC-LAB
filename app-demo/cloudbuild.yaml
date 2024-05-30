@@ -32,5 +32,5 @@ substitutions:
     _SERVICE_REGION   : us-central1
     _SERVICE_PROJECT  : app-demo-env
     _SERVICE_NAME     : my-docker-app-demo
-    _DOCKER_REGISTRY  : app-demo-AC-LAB
+    _DOCKER_REGISTRY  : app-demo-docker-repo
     _DOCKER_IMAGENAME : app-demo-image
